@@ -60,3 +60,4 @@ git diff <원래가지> <비교 대상 가지>
 git diff 명령을 사용하면 현재 unstaged된(add되지않은) 수정사항만을 확인할 수 있다. 
 
 >>>>>>> 6256059e0f44f6fb6a7f80c7cf9efafcbee1c877
+4/5 이승히ㅣㅣㅣㅣㅣㅣ
