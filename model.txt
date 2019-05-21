@@ -103,3 +103,6 @@ https://hangpark.com/django-multi-db-relation/
 
 3>Django 외래키
 https://riptutorial.com/ko/django/example/30649/%EC%99%B8%EB%9E%98-%ED%82%A4
+
+4>To define a many-to-one relationship, use ForeignKey:
+https://docs.djangoproject.com/en/2.2/topics/db/examples/many_to_one/
